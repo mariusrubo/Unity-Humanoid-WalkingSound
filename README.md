@@ -1,5 +1,5 @@
 # Purpose
-This script allows you to play a natural walking sound precisely when your character's feet touch the ground. 
+This script allows you to play a natural walking sound when your character's feet touch the ground. 
 
 # Installation
 * Create two small spheres, make them children of both feet and place them so that they barely touch the ground while your character is standing. Disable the spheres' renderer, but keep the sphere colliders. 
