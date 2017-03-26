@@ -12,4 +12,4 @@ This script allows you to play a natural walking sound precisely when your chara
 
 
 # License
-The script "FootstepsSound.cs" runs under the GPLv3 license. The audio files were published in the "Free Footsteps System". 
+This script runs under the GPLv3 license.
